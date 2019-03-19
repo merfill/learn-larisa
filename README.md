@@ -40,6 +40,9 @@ data = load_iris().data
   возможности. С колонками данных можно работать через символьные имена, а не числовые индексы, также есть еще несколько хороших методов,
   которых не имеется в numpy.
 
+Курс по numpy: https://docs.scipy.org/doc/numpy/user/quickstart.html.
+Хороший учебный курс по pandas: https://bitbucket.org/hrojas/learn-pandas. Будем по нему учиться.
+
 
 ### Отображение данных
 
